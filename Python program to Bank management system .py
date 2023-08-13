@@ -1,4 +1,4 @@
-# python program to Bank managment system
+# Python program to Bank management system
 class BankAccount:
     def __init__(self,account_number,initial_balance=0):
         self.account_number = account_number
